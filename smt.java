@@ -1,11 +1,7 @@
 public class AClass{
  
  
- 
- 
- 
- 
- 
+
  
  
  
