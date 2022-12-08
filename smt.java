@@ -1,4 +1,4 @@
-public class AClasssxxxxdeneme {
+public class AClass{
  
  
  
