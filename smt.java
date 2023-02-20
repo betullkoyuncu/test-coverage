@@ -2,10 +2,7 @@ public class AClass{
  
  
 }
-public class AcCl {
- 
- 
- 
+public class AClass{
  
  
 }
