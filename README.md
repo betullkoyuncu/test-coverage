@@ -1,7 +1,3 @@
 # test-coverage
 # deneme
-# DDD
-
-
-
-
+# D
