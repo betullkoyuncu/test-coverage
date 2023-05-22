@@ -7,9 +7,6 @@ public class AcCl {
  def deneme() = {}
   
  def deneme() = {}
- 
- 
- 
 }
 
 
